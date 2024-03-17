@@ -12,7 +12,7 @@ sutra II.36
 
 in abstact, the goal of the project was to find the correlation, if any, between a given government and thy national economy.
 in practice, the goal was to build a machine learning model to corroborate the goal and to visualize, if any, thy correlation.
-to that end, data from portugal and united states of america national economy indicators was extractedd from www.worldbank.org.
+to that end, data from portugal and united states of america national economy indicators was extracted from www.worldbank.org.
 development of the model was done in jupyter notebook and made visible to and in tableau.
 steps of the process can be observed in the attached jupyter notebooks. 
 the result was satisfactory, in that the models trained independently in each of both country datasets were tested, successfully, against the full dataset of the other.
